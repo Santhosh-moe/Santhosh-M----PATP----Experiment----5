@@ -132,3 +132,5 @@ plt.show()
 
 
 ## Result
+
+Thus, a Multilayer Perceptron (MLP) neural network was implemented using Python to classify handwritten digits. Its performance was evaluated using the test dataset, and the objective was successfully achieved.
